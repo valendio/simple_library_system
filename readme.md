@@ -10,7 +10,7 @@
     >username = std <p>
     >password = 123 </p>
 
->>Libraryan
+>>Librarian
 >username = lib <p>
 >password = 123
 
